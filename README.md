@@ -64,18 +64,27 @@ All changes are recorded in the **Change Log** below.
 
 
 
+Change Log 
+
 Change Log (Based on Feedback)
 
-| Date       | File(s) Updated           | Change Description                                                                 |
-|------------|---------------------------|-----------------------------------------------------------------------------------|
-| 2025-09-20 | `index.html`, `style.css` | Moved inline CSS to external stylesheet; established base styles.                  |
-| 2025-09-22 | `about.html`              | Expanded "About Us" section with mission statement and team image.                 |
-| 2025-09-23 | `services.html`           | Added services grid layout using CSS Grid.                                         |
-| 2025-09-24 | `quote.html`              | Designed enquiry form with input validation and clean layout.                      |
-| 2025-09-25 | `contact.html`            | Added contact details, styled form, and made it responsive for mobile screens.     |
-| 2025-09-26 | All pages                 | Improved navigation links, consistent footer, and responsive typography scaling.   |
+2025-09-05 – index.html, style.css
+Moved inline CSS to an external stylesheet; established base styles.
 
+2025-09-10 – about.html
+Expanded "About Us" section with mission statement and team image.
 
+2025-09-12 – services.html
+Added services grid layout using CSS Grid.
+
+2025-09-15 – quote.html
+Designed enquiry form with input validation and clean layout.
+
+2025-09-18 – contact.html
+Added contact details, styled form, and made it responsive for mobile screens.
+
+2025-09-20 – All pages
+Improved navigation links, consistent footer, and responsive typography scaling.
 
  Deployment
 This website is hosted via **GitHub Pages**:  
@@ -86,4 +95,21 @@ Additional Notes
 - Tested across different browsers (Chrome, Firefox, Edge).
 - Ensured accessible design with semantic tags, alt text for images, and logical heading structure.
 
+ References
+
+Cederholm, D., 2011. *Handcrafted CSS: More Bulletproof Web Design*. 1st ed. Boston: New Riders.
+
+Duckett, J., 2014. *HTML and CSS: Design and Build Websites*. 1st ed. Indianapolis: Wiley.
+
+MDN Web Docs, 2025. *HTML: Hypertext Markup Language*. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/HTML> [Accessed 26 September 2025].
+
+MDN Web Docs, 2025. *CSS: Cascading Style Sheets*. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS> [Accessed 26 September 2025].
+
+W3Schools, 2025. *HTML Tutorial*. [online] Available at: <https://www.w3schools.com/html/> [Accessed 26 September 2025].
+
+W3Schools, 2025. *CSS Tutorial*. [online] Available at: <https://www.w3schools.com/css/> [Accessed 26 September 2025].
+
+Frain, B., 2015. *Responsive Web Design with HTML5 and CSS3*. 2nd ed. London: Packt Publishing.
+
+Robson, J., 2018. *Learning Responsive Web Design*. 1st ed. Birmingham: Packt Publishing.
 
